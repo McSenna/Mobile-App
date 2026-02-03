@@ -1,5 +1,5 @@
-# Welcome to your Expo app 👋
-
+# Welcome to my Mobile Application 👋
+# This Mobile App are looking to create an Digitalized System for Barangay 61 - Maslog!
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
